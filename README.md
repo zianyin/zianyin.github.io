@@ -2,11 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/zianyin/zianyin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-My name is Zian Yin, and I am a master student at Dresden University of Technology, Germany. I am working with Prof. Dr.-Ing. Bäker, Dipl.-Ing. Morawietz on the field of Second-Life-Battery from electric vehicles, where I focus on the simulation of ageing maneuvers in the stationary system. 
+My name is Zian Yin, and I am a master student at Dresden University of Technology, Germany. I am working with Dipl.-Ing. Lutz Morawietz, Dipl.-Ing. Martin Ufert on the field of Second-Life-Battery from electric vehicles, where I focus on the simulation of battery ageing behavior in stationary system. 
 
-This website is a complete introduction platform for my own studying and projects presentation.
+This website is a complete introduction platform for my own studying and projects presentation. Here you will find some interesting things like the structure designing project, exoskeleton roboter, etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you want to connect me, please move to my [Linkedin](www.linkedin.com/in/zian) and send me message. I'm looking forward to hearing from you :)
 
 ## News
 
