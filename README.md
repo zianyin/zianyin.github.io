@@ -6,7 +6,7 @@ My name is Zian Yin, and I am a master student at Dresden University of Technolo
 
 This website is a complete introduction platform for my own studying and projects presentation. Here you will find some interesting things like the structure designing project, exoskeleton roboter, etc.
 
-Whenever you want to connect me, please move to my [Linkedin](www.linkedin.com/in/zian) and send me message. I'm looking forward to hearing from you :)
+Whenever you want to connect me, please move to my [Linkedin](https://www.linkedin.com/in/zian/) and send me message. I'm looking forward to hearing from you :)
 
 ## News
 
