@@ -1,14 +1,24 @@
-## Welcome to Zian Yin's website!
+# Zian Yin's Zone
 
 You can use the [editor on GitHub](https://github.com/zianyin/zianyin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-This is a complete introduction platform for my own studying and projects presentation.
+My name is Zian Yin, and I am a master student at Dresden University of Technology, Germany. I am working with Prof. Dr.-Ing. Bäker, Dipl.-Ing. Morawietz on the field of Second-Life-Battery from electric vehicles, where I focus on the simulation of ageing maneuvers in the stationary system. 
+
+This website is a complete introduction platform for my own studying and projects presentation.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## News
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
+
+## Work Experiences
+
+## Projects
+
+## Contact
+
+_**Markdown**_ is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
